@@ -1,0 +1,7 @@
+Content\Images\Ball.xnb
+Content\Images\Batt.xnb
+Content\Images\Targe.xnb
+Content\Images\Background.xnb
+Content\Images\TitleScreen.xnb
+Content\Fonts\font1.xnb
+Content\Music\UIBGM_LOOP.xnb

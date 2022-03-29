@@ -1,0 +1,2 @@
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame\BallGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pc User\Desktop\XNA\IntroProgXNAGameStudio_eBook\BallGame\BallGame composed of classes\BallGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
